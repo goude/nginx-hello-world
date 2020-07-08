@@ -1,3 +1,3 @@
 # nginx-hello-world
 
-docker hub test
+docker hub test (arm64)
